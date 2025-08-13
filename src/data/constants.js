@@ -1,6 +1,6 @@
 export const Bio = {
   name: "Ayushi Sahu",
-  roles: ["Data Analyst", "Data Scientist", "Business Analyst"],
+  roles: ["Full Stack Developer", "Data Analyst", "Data Scientist"],
   description1:
     "I’m a passionate and detail-oriented Data Analyst & Dashboard Developer who enjoys transforming complex data into clear, actionable insights. With hands-on experience in data visualization, business intelligence, and basic machine learning, I’ve worked across domains like finance, HR, sales forecasting, fraud detection, and social media analysis — helping teams make smarter, data-driven decisions.",
   description2:

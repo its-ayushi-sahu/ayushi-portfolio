@@ -1,6 +1,47 @@
 export const projects = [
   {
     id: 4,
+    title: "Shoppers : Ecom Store",
+    date: "Apr 2024 - May 2024",
+    description:
+      "Our Ecommerce Store is a feature-rich platform built on the MERN stack, with Tailwind CSS for styling, Redux for state management, Cloudinary for image storage, and Postman for API testing. Offering seamless user authentication, product management and shopping cart functionality, our platform provides an intuitive and efficient shopping experience.",
+    image: "Shoppers ecom.png",
+    tags: [
+      "React",
+      "Express",
+      "Tailwind",
+      "MongoDb",
+      "Node",
+      "Cloudinary",
+      "Redux",
+      "Postman",
+    ],
+    category: "MERN",
+    github: "https://shoppers-mern-ecom.vercel.app/",
+    webapp: "https://github.com/its-ayushi-sahu/shopper",
+  },
+  {
+  id: 5,
+  title: "DevConnect",
+  date: "Jun 2024 - Jul 2024",
+  description:
+    "DevConnect is a social networking platform designed specifically for developers to connect, collaborate, and grow together. Built using the MERN stack with Tailwind CSS for styling, Redux for state management, and Cloudinary for image handling. It features user authentication, profile management, post sharing, commenting, and real-time collaboration tools to foster a vibrant dev community.",
+  image: "devconnect.png",
+  tags: [
+    "React",
+    "Express",
+    "Tailwind",
+    "MongoDb",
+    "Node",
+    "Cloudinary",
+    "Redux",
+  ],
+  category: "MERN",
+  github: "https://github.com/its-ayushi-sahu/dev-connect",
+  webapp: "https://github.com/its-ayushi-sahu/dev-connect",
+},
+  {
+    id: 4,
     title: "Finance Budget Planning Dashboard",
     date: "Apr 2025 - May 2025",
     description:

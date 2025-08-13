@@ -14,7 +14,7 @@ import {
 
 const Projects = ({ openModal, setOpenModal }) => {
   const [toggle, setToggle] = useState("all");
-  const toggleOptions = ["DATA ANALYTICS", "DATA SCIENCE"];
+  const toggleOptions = ["MERN", "DATA ANALYTICS", "DATA SCIENCE"];
 
   return (
     <Container id="projects">

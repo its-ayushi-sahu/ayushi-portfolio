@@ -7,7 +7,7 @@ export const Bio = {
     "Alongside analytics, I have hands-on experience with AI and machine learning workflows. I bring a strong problem-solving mindset, learn quickly, and communicate insights effectively, enabling me to contribute as both a Data Analyst and Data Scientist while growing into advanced AI-driven roles.",
   github: "https://github.com/its-ayushi-sahu",
   resume:
-    "https://drive.google.com/file/d/13GNwVMGAdDGND2UhPVujPqTM-tnr3fBR/view?usp=sharing",
+    "https://drive.google.com/file/d/1TbeocbcXGbaCTTi-pwpiI2tyuRYkVXHE/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/its-ayushi-sahu/",
   twitter: "https://www.linkedin.com/in/its-ayushi-sahu/",
   insta: "https://www.linkedin.com/in/its-ayushi-sahu/",

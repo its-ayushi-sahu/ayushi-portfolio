@@ -1,12 +1,10 @@
 export const Bio = {
   name: "Ayushi Sahu",
-  roles: ["Full Stack Developer", "Data Scientist", "Data Analyst", "Data Scientist"],
-  description1: "I'm a versatile professional skilled in data science, data analysis, and full-stack development. I combine technical expertise in data science and analytics with a strong analytical mindset to build scalable applications, uncover data-driven insights, and develop predictive models that drive business impact.",
-   // "I’m a passionate and detail-oriented Data Analyst & Dashboard Developer who enjoys transforming complex data into clear, actionable insights. With hands-on experience in data visualization, business intelligence, and basic machine learning, I’ve worked across domains like finance, HR, sales forecasting, fraud detection, and social media analysis — helping teams make smarter, data-driven decisions.",
+  roles: ["Data Scientist", "Data Analyst"],
+  description1:
+    "I’m a motivated Data Analyst and aspiring Data Scientist with strong skills in data analysis, statistics, machine learning, and data visualization. I’ve worked on end-to-end projects involving data cleaning, exploratory data analysis, feature engineering, predictive modeling, and dashboard development—transforming complex datasets into clear, actionable insights.",
   description2:
-    "Beyond the tools and tech, I’m a curious problem-solver who loves exploring patterns, asking the right questions, and presenting insights through compelling, easy-to-understand dashboards. I take pride in combining analytical thinking with visual storytelling to bring clarity to complex challenges.",
-  description3:
-    "I thrive in collaborative environments, continuously seek to learn, and believe that good data doesn’t just explain the past — it helps shape better decisions for the future.",
+    "Alongside analytics, I have hands-on experience with AI and machine learning workflows. I bring a strong problem-solving mindset, learn quickly, and communicate insights effectively, enabling me to contribute as both a Data Analyst and Data Scientist while growing into advanced AI-driven roles.",
   github: "https://github.com/its-ayushi-sahu",
   resume:
     "https://drive.google.com/file/d/13GNwVMGAdDGND2UhPVujPqTM-tnr3fBR/view?usp=sharing",

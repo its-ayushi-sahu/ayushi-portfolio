@@ -14,7 +14,6 @@ export const Bio = {
   email: "mailto:ayushi123sa@gmail.com",
   facebook: "https://www.linkedin.com/in/its-ayushi-sahu/",
 };
-
 // export const TimeLineData = [
 //   { year: 2017, text: "Started my journey" },
 //   { year: 2018, text: "Worked as a freelance developer" },
